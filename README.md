@@ -6,8 +6,16 @@ Knowledge Siege is a strategy and survival game project developed for the Koç U
 - **User Management:** Features a comprehensive system for registration, secure login with password visibility toggles, and persistent user data.
 - **Scoreboard:** A high-score table that sorts game sessions in descending order of scores, using alphabetical sorting as a tie-breaker.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9fcd01da-4eed-4d80-8211-df3455b92b17"
+       alt="Knowledge Siege Gameplay Screenshot"
+       width="600"/>
+</p>
 
-<img width="800" height="660" alt="Ekran Resmi 2026-02-17 12 19 34" src="https://github.com/user-attachments/screenshots/42cb374f-f7d9-473d-8f86-dceb3f2d1101" />
+<p align="center">
+  <em>Knowledge Siege: Gameplay.</em>
+</p>
+
 
 ## Technical Architecture (OOP)
 The project is organized into 7 main packages to ensure modularity and scalability : `characters`, `data`, `user`, `shotbox`, `game`, `screens`
