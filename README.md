@@ -37,7 +37,7 @@ To run this Java Swing game:
 ### Steps
 1. Clone the repo:
 ```bash
-git clone https://github.com/Mataramasuki/KU-COMP132-KnowledgeSiegeGameProject.git
+git clone https://github.com/mertbayramkoksal/KU-COMP132-KnowledgeSiegeGameProject.git
 ```
 2. Open the project in an IDE
 3. Run the main class from src
