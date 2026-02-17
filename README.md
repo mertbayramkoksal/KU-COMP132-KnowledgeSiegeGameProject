@@ -50,8 +50,8 @@ git clone https://github.com/mertbayramkoksal/KU-COMP132-KnowledgeSiegeGameProje
 3. Run the main class from src
 
 ## Academic Integrity
-This project was developed by Mert Bayram Köksal as part of the COMP132 course at Koç University . It strictly adheres to the university's academic integrity guidelines. The "Pledge of Honor" text is included at the beginning of the source code.
+This project was developed by **Mert Bayram Köksal** as part of the COMP132 course at Koç University . It strictly adheres to the university's academic integrity guidelines. The **"Pledge of Honor"** text is included at the beginning of the source code.
 
-Developer: Mert Bayram Köksal
+**Developer:** Mert Bayram Köksal
 
-Term: Spring 2025
+**Term:** Spring 2025
