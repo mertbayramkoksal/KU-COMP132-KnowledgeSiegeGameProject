@@ -1,0 +1,30 @@
+[Level 1] A class defines the structure and behavior of objects.
+[Level 1] Objects are created from classes using the new keyword.
+[Level 1] Inheritance lets one class use fields and methods of another.
+[Level 1] The new keyword allocates memory for a new object.
+[Level 1] Methods define reusable blocks of code.
+[Level 1] Arrays store multiple values of the same data type.
+[Level 1] Constructors initialize new objects.
+[Level 1] Encapsulation hides internal state and requires access through methods.
+[Level 1] The default value of int in Java is 0.
+[Level 1] Variables must be declared with a type, like int x;
+[Level 2] Polymorphism allows objects to take many forms.
+[Level 2] Overloaded methods have the same name but different parameters.
+[Level 2] Overriding means redefining a superclass method in a subclass.
+[Level 2] ArrayList offers fast access; LinkedList is better for frequent insertions/deletions.
+[Level 2] Exceptions are caught using try and catch blocks.
+[Level 2] super calls a superclass constructor or method.
+[Level 2] List allows duplicates and is ordered; Set does not allow duplicates.
+[Level 2] The final keyword prevents method overriding or variable reassignment.
+[Level 2] Parameterized constructors allow objects to be created with initial values.
+[Level 2] Checked exceptions must be declared or handled; unchecked don’t have to be.
+[Level 3] The Singleton pattern restricts instantiation to one object.
+[Level 3] Generic methods work with any data type and ensure type safety.
+[Level 3] HashMap is unordered; TreeMap keeps keys sorted.
+[Level 3] Exception chaining links related exceptions using constructors.
+[Level 3] Comparable allows objects to be sorted using compareTo().
+[Level 3] == compares references; .equals() compares content.
+[Level 3] Regex for email: ^[\\w.-]+@[\\w.-]+\\.[a-zA-Z]{2,6}$
+[Level 3] Wildcards (<?>, <? extends T>, <? super T>) offer flexible generics.
+[Level 3] Try-with-resources automatically closes streams after use.
+[Level 3] Autoboxing automatically converts primitives to their wrapper classes.

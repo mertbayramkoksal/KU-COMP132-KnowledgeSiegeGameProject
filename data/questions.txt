@@ -1,0 +1,30 @@
+[Level 1] Class
+[Level 1] Object
+[Level 1] Inheritance
+[Level 1] Method
+[Level 1] Constructor
+[Level 1] Array
+[Level 1] Variable
+[Level 1] Encapsulation
+[Level 1] Instance
+[Level 1] Super
+[Level 2] What is polymorphism?
+[Level 2] What is method overloading?
+[Level 2] What is method overriding?
+[Level 2] What is the difference between this and super?
+[Level 2] What is an abstract class?
+[Level 2] What is an interface?
+[Level 2] What is the final keyword used for?
+[Level 2] How do you override a method?
+[Level 2] What is the difference between static and instance methods?
+[Level 2] What is the difference between an ArrayList and a LinkedList?
+[Level 3] Explain the Singleton pattern.
+[Level 3] What is abstraction in Java?
+[Level 3] What is a generic method?
+[Level 3] How does Java handle file I/O using streams?
+[Level 3] What is a checked exception?
+[Level 3] What is exception chaining?
+[Level 3] What is the difference between List, Set, and Map?
+[Level 3] Describe how Streams work in functional programming with Java.
+[Level 3] What are the advantages of using immutable objects?
+[Level 3] What is the difference between composition and inheritance?
