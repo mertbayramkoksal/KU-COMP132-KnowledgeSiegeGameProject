@@ -1,6 +1,13 @@
 # Knowledge Siege
 Knowledge Siege is a strategy and survival game project developed for the Koç University COMP132: Advanced Programming course, utilizing the Java Swing library and focusing on core Object-Oriented Programming (OOP) principles such as inheritance, abstraction, polymorphism, and interfaces.
 
+##  Kullanılan Araçlar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,eclipse,git,github" />
+</p>
+
+
 ## Gameplay & Features
 - **Information vs. Questions:** Players collect "Information" (light bulb icons) to gain points while avoiding "Questions" (question mark icons) that reduce health (HP).
 - **User Management:** Features a comprehensive system for registration, secure login with password visibility toggles, and persistent user data.
